@@ -1,0 +1,16 @@
+#top {}
+
+#sents {
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 4%;
+}
+
+#sents {
+    height: 500px;
+    overflow-y: scroll;
+    border-radius: 5px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+    /* background-color: #fff; */
+    padding: 15px;
+}
